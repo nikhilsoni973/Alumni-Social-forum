@@ -1,0 +1,30 @@
+﻿*
+{
+    padding:0px;
+    margin:0px;
+}
+#menu ul
+{
+    list-style:none;
+}
+#menu ul li
+{
+    background-color:Blue;
+    border:solid 1px white;
+    width:120px;
+    height:35px;
+    text-align:center;
+    line-height:35px;
+    float:left;
+}
+#menu ul li a
+{
+    text-decoration:none;
+    color:#fff;
+    display:block;
+}
+#menu ul li a:hover
+{
+    background-color:SkyBlue;
+    color:White;
+}
